@@ -1,4 +1,4 @@
-@media screen and (orientation: portrait) {
+@media screen and (orientation: portrait) and (min-width: 720px) {
 
     nav a {
         display: block;
